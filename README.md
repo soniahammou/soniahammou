@@ -10,7 +10,7 @@ I'm Sonia, a PHP/JavaScript web developer from Marseille, France.<br><br>I enjoy
 My portfolio - I'm currently working on my portfolio, showcasing my work with a back-office access feature that allows me to manage my projects and easily post new ones.
 
 ---
-#✨ Keep in Touch
+# ✨ Keep in Touch
 
 I'm always open to new opportunities and connections! Feel free to reach out to me via the following platforms:
 
