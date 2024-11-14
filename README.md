@@ -7,8 +7,7 @@
 ---
 # ✏️ Projects I am working on
 
-💻 My portfolio - I'm currently working on my portfolio, showcasing my work with a back-office access feature that allows me to manage my projects and easily post new ones.
-
+💻 [My Portfolio](https://github.com/soniahammou/portfolio) - I'm currently working on my portfolio, showcasing my work with a back-office access feature that allows me to manage my projects and easily post new ones.
 ---
 # ✨ Keep in Touch
 
