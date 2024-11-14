@@ -14,7 +14,7 @@
 
 I'm always open to new opportunities and connections! Feel free to reach out to me via the following platforms:
 
-- [Behance](https://behance.net/soniahammou)  
+- [Behance](https://behance.net/sonia-hammou)  
 - [LinkedIn](https://linkedin.com/in/sonia-hammou)
 - 📧 You can contact me by [mail](mailto:sonia.hammou@gmail.com)
 
