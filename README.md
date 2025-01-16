@@ -8,6 +8,11 @@
 # ✏️ Projects I am working on
 
 💻 [My Portfolio](https://github.com/soniahammou/portfolio) - I'm currently working on my portfolio, showcasing my work with a back-office access feature that allows me to manage my projects and easily post new ones.
+
+## WordPress Theme Development for "Truck à Pâtes"
+
+I am currently working on developing a custom WordPress theme for "Truck à Pâtes," a food truck specializing in pasta. This project includes specific features like menu presentation, information about the food truck, and easy content management. The theme will be designed to provide a smooth user experience that aligns with the food truck's brand identity.
+
 ---
 # ✨ Keep in Touch
 
